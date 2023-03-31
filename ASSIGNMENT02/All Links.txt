@@ -1,0 +1,10 @@
+GitHub:
+https://github.com/Fatenkh90/101278649_COMP_3104_assignment2-.git
+
+
+Jenkins:
+http://20.151.239.151:8080/login?from=%2F
+
+SonarQube:
+http://20.151.239.75:9000/about
+
